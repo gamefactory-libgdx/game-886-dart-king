@@ -1,0 +1,1 @@
+The GDD content shows "Error: Reached max turns (3)" — no actual game design document was provided. Please paste the GDD text and I'll write the spec.
